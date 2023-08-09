@@ -1,0 +1,4 @@
+USER_FILES
+__pycache__
+*.pdf
+.env
